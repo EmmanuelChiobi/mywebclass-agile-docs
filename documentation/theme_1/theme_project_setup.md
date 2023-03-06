@@ -14,5 +14,7 @@ us up for long-term success.
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
   * Project metrics to continuously improve the management of the project
 
+* Establish the legal requirements for the project
+
 ## Test plan
-How will this be tested?
+The main objective of this test plan is to ensure that the web page meets the business requirements and is developed using Lean and Agile principles, delivering a strong foundation for long-term success.
