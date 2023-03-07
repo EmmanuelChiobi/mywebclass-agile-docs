@@ -11,9 +11,9 @@ The project charter and scope statement will clearly define the project's object
 ## User Stories
 * [As a project manager, I want to define the project's objectives and constraints so that I can plan the project effectively.](./stories/story_1.md)
 
-* [As a project team member, I want to identify key stakeholders and their roles so that I can ensure their requirements are met.]()
+* [As a project team member, I want to identify key stakeholders and their roles so that I can ensure their requirements are met.](./stories/story_2.md)
 
-* [As a project sponsor, I want to understand the project's scope and goals so that I can support the project effectively.]()
+* [As a project sponsor, I want to understand the project's scope and goals so that I can support the project effectively.](./stories/story_3.md)
 
 ## Dependencies
 No dependencies for this epic.
@@ -25,12 +25,12 @@ No dependencies for this epic.
 ### Estimated Effort: 2 weeks
 
 ## Business Value
-
+Clearly defining the project scope and objectives will help ensure the project's success and alignment with business goals.
 ### Priority: High
 
 # List of stories related to this epic
 * [As a project manager, I want to define the project's objectives and constraints so that I can plan the project effectively.](./stories/story_1.md)
 
-* [As a project team member, I want to identify key stakeholders and their roles so that I can ensure their requirements are met.]()
+* [As a project team member, I want to identify key stakeholders and their roles so that I can ensure their requirements are met.](./stories/story_2.md)
 
-* [As a project sponsor, I want to understand the project's scope and goals so that I can support the project effectively.]()
+* [As a project sponsor, I want to understand the project's scope and goals so that I can support the project effectively.](./stories/story_3.md)
