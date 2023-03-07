@@ -9,7 +9,7 @@ The project plan and schedule will provide detailed information on the project's
 * Define roles and responsibilities for each team member
 
 ## User Stories
-* [As a project manager, I want to develop a detailed project plan and schedule so that I can track project progress effectively.]()
+* [As a project manager, I want to develop a detailed project plan and schedule so that I can track project progress effectively.](./stories/story_4.md)
 
 * [As a project team member, I want to understand my role and responsibilities on the project so that I can contribute effectively.]()
 
@@ -28,7 +28,7 @@ The project plan and schedule will ensure the project is executed effectively an
 ### Priority: High
 
 # List of stories related to this epic
-* [As a project manager, I want to develop a detailed project plan and schedule so that I can track project progress effectively.]()
+* [As a project manager, I want to develop a detailed project plan and schedule so that I can track project progress effectively.](./stories/story_4.md)
 
 * [As a project team member, I want to understand my role and responsibilities on the project so that I can contribute effectively.]()
 

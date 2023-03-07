@@ -1,8 +1,10 @@
 # User Story 4
 
-As a project sponsor, I want to understand the project's scope and goals so that I can support the project effectively.
+As a project manager, I want to develop a detailed project plan and schedule so that I can track project progress effectively.
 
 ## Acceptance Criteria
-The project sponsor needs to have a thorough understanding of the project scope and goals, including its objectives and alignment with the overall business strategy, timeline, budget, and resource requirements. Acceptance criteria include a project charter and communication plan, and the sponsor should be able to articulate the project's importance, expected outcomes, and strategic alignment.
+The project manager must create a comprehensive project plan and schedule that includes all tasks, dependencies, and deadlines. The plan should be broken down into smaller sub-tasks with estimated durations and potential delays or roadblocks accounted for. The schedule should be presented in a clear, easy-to-read format with milestone dates and deadlines for major deliverables. The plan and schedule should be shared with relevant stakeholders and regularly updated to track progress. Any changes must be promptly communicated to stakeholders.
 
 # List tasks related to this story
+* [Develop a project plan](./tasks/task_6.md)
+* [Create a project schedule](./tasks/task_7.md)

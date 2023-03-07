@@ -10,7 +10,7 @@ The task involves scheduling a meeting with the project team to discuss the proj
 
 ### Assigned To: Project Sponsor
 
-### Priority: Medium
+### Priority: High
 
 ### Status: Not started
 
