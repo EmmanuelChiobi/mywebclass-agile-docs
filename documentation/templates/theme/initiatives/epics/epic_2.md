@@ -11,9 +11,9 @@ The project plan and schedule will provide detailed information on the project's
 ## User Stories
 * [As a project manager, I want to develop a detailed project plan and schedule so that I can track project progress effectively.](./stories/story_4.md)
 
-* [As a project team member, I want to understand my role and responsibilities on the project so that I can contribute effectively.]()
+* [As a project team member, I want to understand my role and responsibilities on the project so that I can contribute effectively.](./stories/story_5.md)
 
-* [As a project sponsor, I want to understand the project's timeline and milestones so that I can support the project effectively.]()
+* [As a project sponsor, I want to understand the project's timeline and milestones so that I can support the project effectively.](./stories/story_6.md)
 
 ### Dependencies: Completion of Epic 1
 
@@ -30,6 +30,6 @@ The project plan and schedule will ensure the project is executed effectively an
 # List of stories related to this epic
 * [As a project manager, I want to develop a detailed project plan and schedule so that I can track project progress effectively.](./stories/story_4.md)
 
-* [As a project team member, I want to understand my role and responsibilities on the project so that I can contribute effectively.]()
+* [As a project team member, I want to understand my role and responsibilities on the project so that I can contribute effectively.](./stories/story_5.md)
 
-* [As a project sponsor, I want to understand the project's timeline and milestones so that I can support the project effectively.]()
+* [As a project sponsor, I want to understand the project's timeline and milestones so that I can support the project effectively.](./stories/story_6.md)
