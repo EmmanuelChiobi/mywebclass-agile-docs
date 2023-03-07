@@ -8,11 +8,13 @@ us up for long-term success.
 
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
 * [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+* [Create an initial web page template that includes](initiatives/initiative_webpage.md)
 
-* Monitoring to continuously improve the quality of our project
+* [Monitoring to continuously improve the quality of our project](initiatives/QA_initiative.md)
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
   * Project metrics to continuously improve the management of the project
 
+* [Establish the legal requirements for the project]()
+
 ## Test plan
-How will this be tested?
+The main objective of this test plan is to ensure that the web page meets the business requirements and is developed using Lean and Agile principles, delivering a strong foundation for long-term success.
