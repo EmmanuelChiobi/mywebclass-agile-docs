@@ -9,7 +9,7 @@ The project charter and scope statement will clearly define the project's object
 * Establish project constraints and limitations
 
 ## User Stories
-* [As a project manager, I want to define the project's objectives and constraints so that I can plan the project effectively.]()
+* [As a project manager, I want to define the project's objectives and constraints so that I can plan the project effectively.](./stories/story_1.md)
 
 * [As a project team member, I want to identify key stakeholders and their roles so that I can ensure their requirements are met.]()
 
@@ -29,7 +29,7 @@ No dependencies for this epic.
 ### Priority: High
 
 # List of stories related to this epic
-* [As a project manager, I want to define the project's objectives and constraints so that I can plan the project effectively.]()
+* [As a project manager, I want to define the project's objectives and constraints so that I can plan the project effectively.](./stories/story_1.md)
 
 * [As a project team member, I want to identify key stakeholders and their roles so that I can ensure their requirements are met.]()
 
